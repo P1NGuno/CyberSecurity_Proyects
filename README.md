@@ -6,11 +6,11 @@
 
 ## 📚 Estructura de Niveles
 
-| Nivel | Descripción | Dificultad | Ideal para mostrar |
-|-------|-------------|------------|---------------------|
-| 🟢 Básico | Fundamentos de programación y conceptos iniciales de seguridad | Baja | ✅ En colección básica |
-| 🟡 Intermedio | Networking, APIs, análisis de tráfico y seguridad práctica | Media | ✅ Recomendado |
-| 🔴 Avanzado | Automatización ofensiva, análisis inteligente, honeypots | Alta | 🌟 Muy destacable |
+| Nivel | Descripción | Dificultad |
+|-------|-------------|------------|
+| 🟢 Básico | Fundamentos de programación y conceptos iniciales de seguridad | Baja | 
+| 🟡 Intermedio | Networking, APIs, análisis de tráfico y seguridad práctica | Media | 
+| 🔴 Avanzado | Automatización ofensiva, análisis inteligente, honeypots | Alta |
 
 ---
 
